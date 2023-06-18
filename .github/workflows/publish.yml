@@ -36,6 +36,7 @@ jobs:
           run ./ppkg setup --use-system-package-manager
           run ./ppkg update
 
+          echo "PKG_NAMES=$PKG_NAMES"
           for PKG_NAME in $PKG_NAMES
           do
             run ./ppkg install "$PKG_NAME" --link-type=static-only --install-lib=static
@@ -93,7 +94,7 @@ jobs:
 
       # https://github.com/multiarch/qemu-user-static
       - run: docker run --rm --privileged multiarch/qemu-user-static --reset -p yes
-      - run: docker run -v "$PWD:$PWD" -w "$PWD" -e "PKG_NAMES=$PKG_NAMES" --name alpine arm64v8/alpine sh run.sh
+      - run: docker run -v "$PWD:$PWD" -w "$PWD" -e "PKG_NAMES='$PKG_NAMES'" --name alpine arm64v8/alpine sh run.sh
 
       - run: |
           sha256sum *.tar.xz > sha256sums.txt
