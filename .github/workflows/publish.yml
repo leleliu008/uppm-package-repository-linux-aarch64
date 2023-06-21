@@ -155,11 +155,6 @@ jobs:
 
       - uses: actions/download-artifact@v3
         with:
-          name: doxygen
-          path: .
-
-      - uses: actions/download-artifact@v3
-        with:
           name: ed
           path: .
 
@@ -176,6 +171,11 @@ jobs:
       - uses: actions/download-artifact@v3
         with:
           name: gawk
+          path: .
+
+      - uses: actions/download-artifact@v3
+        with:
+          name: gperf
           path: .
 
       - uses: actions/download-artifact@v3
@@ -410,7 +410,12 @@ jobs:
 
       - uses: actions/download-artifact@v3
         with:
-          name: procps
+          name: figlet
+          path: .
+
+      - uses: actions/download-artifact@v3
+        with:
+          name: lolcat
           path: .
 
       - run: |
