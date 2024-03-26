@@ -1,0 +1,5 @@
+summary: Utility to determine file types
+webpage: https://www.darwinsys.com/file
+version: 5.44 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/file-5.44-linux-aarch64.tar.xz 
+bin-sha: af06d923fa61caeac35b132b3bdf8ae3afe790353cfbe9ffb9c1dabf1076be15

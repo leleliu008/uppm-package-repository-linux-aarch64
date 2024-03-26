@@ -1,0 +1,5 @@
+summary: GNU awk utility
+webpage: https://www.gnu.org/software/gawk
+version: 5.2.2 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/gawk-5.2.2-linux-aarch64.tar.xz 
+bin-sha: b1598828e9937fc516b4870685e68e6375d7698ec9adf122fe6ac9dc8299e3ad

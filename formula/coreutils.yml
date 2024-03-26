@@ -1,0 +1,5 @@
+summary: GNU File, Shell, and Text utilities
+webpage: https://www.gnu.org/software/coreutils
+version: 9.3 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/coreutils-9.3-linux-aarch64.tar.xz 
+bin-sha: b1f98a28c010af4f89bedc0339d122c8008a13a480d0d5e6f2099780c595535c

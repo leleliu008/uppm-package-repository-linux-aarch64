@@ -1,0 +1,5 @@
+summary: GitHub command-line tool
+webpage: https://github.com/cli/cli
+version: 2.30.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/gh-2.30.0-linux-aarch64.tar.xz 
+bin-sha: 6ebd44d50702597f6bc3b3d3434d89d6464ecb32bec76a4fef76f65cb665ecb1

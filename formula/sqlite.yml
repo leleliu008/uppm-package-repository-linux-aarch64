@@ -1,0 +1,5 @@
+summary: command-line interface for SQLite
+webpage: https://www.sqlite.org/
+version: 3.42.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/sqlite-3.42.0-linux-aarch64.tar.xz 
+bin-sha: 8dcb5e33690b8018356d8386e0d81d19b430f10f580fe6362e5a3bfdb79c8305

@@ -1,0 +1,5 @@
+summary: File comparison utilities
+webpage: https://www.gnu.org/software/diffutils
+version: 3.10 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/diffutils-3.10-linux-aarch64.tar.xz 
+bin-sha: 0ff8fee2553b0866ce32dd848b07db12e028e8dc8a633229d6d23d3efdd3e121

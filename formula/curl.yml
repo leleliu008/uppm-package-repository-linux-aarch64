@@ -1,0 +1,5 @@
+summary: Get a file from an HTTP, HTTPS or FTP server
+webpage: https://curl.haxx.se/
+version: 8.1.2 
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/curl-8.1.2-linux-aarch64.tar.xz 
+bin-sha: 17896855aaf49079ce654472753f17eda9fe12cbdbf2fe7662c399c736c38136

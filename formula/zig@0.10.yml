@@ -1,0 +1,6 @@
+summary: a general-purpose programming language and toolchain for maintaining robust, optimal and reusable software
+webpage: https://ziglang.org/
+bin-url: https://ziglang.org/download/0.10.1/zig-linux-aarch64-0.10.1.tar.xz
+bin-sha: db0761664f5f22aa5bbd7442a1617dd696c076d5717ddefcc9d8b95278f71f5d
+version: 0.10.1
+unpackd: bin
