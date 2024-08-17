@@ -1,0 +1,5 @@
+summary: Terminal multiplexer
+webpage: https://tmux.github.io
+version: 3.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/tmux-3.4-linux-aarch64.tar.xz
+bin-sha: 2bd8d76afc7b2e69e2ef37d1bd8070fe93cc95deb22ec65e5a10d20404638b21

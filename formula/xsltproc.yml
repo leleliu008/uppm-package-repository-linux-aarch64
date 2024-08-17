@@ -1,5 +1,5 @@
-summary: C XSLT library for GNOME
+summary: A command line tool for applying XSLT stylesheets to XML documents
 webpage: http://xmlsoft.org/XSLT
-version: 1.1.37 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/xsltproc-1.1.37-linux-aarch64.tar.xz 
-bin-sha: 0d75553dfe7a6da69109a34925b971bb3b046ec1063f01f79335f7f5218d8d25
+version: 1.1.39
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/xsltproc-1.1.39-linux-aarch64.tar.xz
+bin-sha: 1a67e5e723da6e9572c87f5a3951c5017dde73d66a7124f53d512ebe45c65237

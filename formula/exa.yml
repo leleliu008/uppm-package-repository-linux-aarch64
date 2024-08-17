@@ -1,0 +1,5 @@
+summary: Modern replacement for ls(1)
+webpage: https://the.exa.website
+version: 0.10.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/exa-0.10.1-linux-aarch64.tar.xz
+bin-sha: 379b6db0bcc6d82f32f32a4a4579464be30c824847c60f746bc9bc4f6bae5143

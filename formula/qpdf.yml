@@ -1,5 +1,5 @@
-summary: a command-line tool and C++ library that performs content-preserving transformations on PDF files
+summary: A command-line tool that performs content-preserving transformations on PDF files
 webpage: https://github.com/qpdf/qpdf
-version: 11.4.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/qpdf-11.4.0-linux-aarch64.tar.xz 
-bin-sha: f4d50401a07d0aa9f8d000402afd353149a9ae56e6eb9f2b4073bbc1e8e963e2
+version: 11.9.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/qpdf-11.9.1-linux-aarch64.tar.xz
+bin-sha: 8ed27cbe7ee6b02b7e5f0e9c074a39c95ab6fd44db9f36d8ead108ce8864fc44

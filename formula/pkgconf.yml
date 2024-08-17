@@ -1,5 +1,5 @@
 summary: Reimplementation of pkg-config
 webpage: http://pkgconf.org
-version: 1.9.5 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/pkgconf-1.9.5-linux-aarch64.tar.xz 
-bin-sha: eefb0e6f257fe034a954dd87b719a10a52bbcc3fe13016dea6c26f7ea180997f
+version: 2.1.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/pkgconf-2.1.1-linux-aarch64.tar.xz
+bin-sha: 393b757310138023d140a3c46e481c4107aeea239682ffd930600fb213acd83c

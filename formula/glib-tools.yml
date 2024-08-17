@@ -1,5 +1,5 @@
-summary: Core application library for C
+summary: A collection of tools for glib
 webpage: https://developer.gnome.org/glib
-version: 2.74.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/glib-tools-2.74.0-linux-aarch64.tar.xz 
-bin-sha: e50762b558796317f0d399f484fda5f7096ba6c2d08fd1b279e544c32fdd42ae
+version: 2.80.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/glib-tools-2.80.0-linux-aarch64.tar.xz
+bin-sha: 5ad7f97a79096f481b2ded22ecd6de929d3c4eaa9e2fed7f5063f985d3d9b615

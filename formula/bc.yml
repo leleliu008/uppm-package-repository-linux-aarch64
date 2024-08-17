@@ -1,0 +1,5 @@
+summary: Arbitrary precision numeric processing language
+webpage: https://www.gnu.org/software/bc
+version: 1.07.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/bc-1.07.1-linux-aarch64.tar.xz
+bin-sha: c172577422dc7218bd40e403d022cdfc493445b253edc0fdb1ada941c1f9d950

@@ -1,5 +1,5 @@
-summary: Manage compile and link flags for libraries
+summary: A command-line tool to help you insert the correct compiler options when compiling objects and/or linking libraries
 webpage: https://freedesktop.org/wiki/Software/pkg-config
-version: 0.29.2 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/pkg-config-0.29.2-linux-aarch64.tar.xz 
-bin-sha: 4f36f3df578a99a616a8df294acbd2f82cb4a8840b121de74aa372f7acd592b4
+version: 0.29.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/pkg-config-0.29.2-linux-aarch64.tar.xz
+bin-sha: c2ad10dccfde70da0fd9c1ea01ec1f2aef354087e5b52a3868fe71aaf2c20a5a

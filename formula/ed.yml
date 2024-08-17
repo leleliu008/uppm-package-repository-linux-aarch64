@@ -1,5 +1,5 @@
 summary: Classic UNIX line editor
 webpage: https://www.gnu.org/software/ed/ed.html
-version: 1.19 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/ed-1.19-linux-aarch64.tar.xz 
-bin-sha: 
+version: 1.20.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/ed-1.20.1-linux-aarch64.tar.xz
+bin-sha: cc750e496bb130f4006dcdaa41033db841f6f83e944afccd28dcc6636bd36e8d

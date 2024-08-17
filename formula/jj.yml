@@ -1,0 +1,5 @@
+summary: A git-compatible distributed version control system
+webpage: https://github.com/martinvonz/jj
+version: 0.20.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/jj-0.20.0-linux-aarch64.tar.xz
+bin-sha: 3d4245280b8e8bfe84e9b760d878b93e43ec8dd05b6d79cb570536c27753c6b5

@@ -1,5 +1,5 @@
 summary: Maintained ctags implementation
 webpage: https://ctags.io/
-version: 2023.06.21 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/uctags-2023.06.21-linux-aarch64.tar.xz 
-bin-sha: b6497320b0807888341866b00bebd2df163043722636982b1e7c773fdf74f4f4
+version: 2024.08.17
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/uctags-2024.08.17-linux-aarch64.tar.xz
+bin-sha: 0844511b77a8817e52511c32eae34f75d5afaf35355d1fe9ac97d4fc6086a642

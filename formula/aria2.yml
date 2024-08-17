@@ -1,0 +1,5 @@
+summary: Download with resuming and segmented downloading
+webpage: https://aria2.github.io
+version: 1.37.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/aria2-1.37.0-linux-musl-aarch64.tar.xz
+bin-sha: 666cd83d37603bd4281ec4044c2b8cebe879884550b9d721256e91cbef1ebce0

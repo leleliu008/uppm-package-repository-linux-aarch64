@@ -1,5 +1,5 @@
-summary: BLAKE3 cryptographic hash function
+summary: A command line utility for calculating BLAKE3 hashes
 webpage: https://github.com/BLAKE3-team/BLAKE3
-version: 1.4.0 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/b3sum-1.4.0-linux-aarch64.tar.xz 
-bin-sha: d003e57c99705f621facec0f2ba4995df34d3221e3d1df13dfd040e902b5642d
+version: 1.5.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/b3sum-1.5.1-linux-aarch64.tar.xz
+bin-sha: d4c1d670ec7a9687d66fae67b999aa99adbeb843c8e0965cb4d44e436e83a047

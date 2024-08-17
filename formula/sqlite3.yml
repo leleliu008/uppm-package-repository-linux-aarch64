@@ -1,0 +1,5 @@
+summary: A small, fast, self-contained, high-reliability, full-featured, SQL database engine written in C
+webpage: https://www.sqlite.org/
+version: 3.46.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/sqlite3-3.46.0-linux-aarch64.tar.xz
+bin-sha: e6027a20104e9e4801a880d7eb495e7a13b80be836f46172804552cb806a045b

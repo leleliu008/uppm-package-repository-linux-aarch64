@@ -1,0 +1,5 @@
+summary: Diagnostic, instructional, and debugging tool for the Linux kernel
+webpage: https://strace.io/
+version: 6.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/strace-6.8-linux-aarch64.tar.xz
+bin-sha: 9a11a4787517d4b051777f509cddbeec342511d0fc0c067d8e3d1d93d42a47a6

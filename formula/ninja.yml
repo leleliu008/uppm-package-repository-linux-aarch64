@@ -1,5 +1,5 @@
-summary: Small build system for use with gyp or CMake
+summary: A small build system with a focus on speed
 webpage: https://ninja-build.org/
-version: 1.11.1 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/ninja-1.11.1-linux-aarch64.tar.xz 
-bin-sha: 41488181cec5addca26c91e2a86b5c89c34fd5d05363d4d854b4d589d86c0131
+version: 1.11.1
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/ninja-1.11.1-linux-aarch64.tar.xz
+bin-sha: 963454679b572c7d4c21fefc6ca273a72d7a6c6f9cdf43d2305c3fd1069b58ff

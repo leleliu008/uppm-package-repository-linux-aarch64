@@ -1,5 +1,5 @@
-summary: Popular GNU data compression program
+summary: A popular data compression program developed by GNU
 webpage: https://www.gnu.org/software/gzip
-version: 1.12 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/gzip-1.12-linux-aarch64.tar.xz 
-bin-sha: bff14759d29c901ac7c8fe628968578086097bbd8e7f0c3e9b6b299f49899d1e
+version: 1.13
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/gzip-1.13-linux-aarch64.tar.xz
+bin-sha: eb98a2338c222cd276fdc70fbded675f6f8856de6c26b453db8ff7920a0b7c1c

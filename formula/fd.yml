@@ -1,0 +1,5 @@
+summary: A simple, fast and user-friendly alternative to find(1)
+webpage: https://github.com/sharkdp/fd
+version: 9.0.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/fd-9.0.0-linux-aarch64.tar.xz
+bin-sha: 46f9927f285e75b54893c08d6c3efe7b50d358edbb2b33831877b73c14de7065

@@ -1,5 +1,5 @@
 summary: Open source programming language to build simple/reliable/efficient software
 webpage: https://go.dev/
-version: 1.20.5
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/golang-1.20.5-linux-aarch64.tar.xz
-bin-sha: b462bfe3fbe49f3dac4cacc30312a5e5a56259cc508b1b53a41240520b0ba7a3
+version: 1.22.4
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/golang-1.22.4-linux-musl-aarch64.tar.xz
+bin-sha: fcdfcd7ca32b54b83927c0a57e617a610ff88c7da7aaa7a3a998950f04a1a409

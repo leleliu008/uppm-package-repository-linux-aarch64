@@ -1,5 +1,5 @@
-summary: Collection of Linux utilities
+summary: A collection of Linux utilities
 webpage: https://github.com/util-linux/util-linux
-version: 2.39 
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2023.06.22/util-linux-2.39-linux-aarch64.tar.xz 
-bin-sha: d6d0c28dfca8a591238a6f26b68891a56ce2738d50c8402bf8a93f0802034e20
+version: 2.39.3
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/util-linux-2.39.3-linux-aarch64.tar.xz
+bin-sha: 246878aed7dd2e52f1e89920a89f853853e7747d98c6d42028df8d0015b6aa40

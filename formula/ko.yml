@@ -1,0 +1,5 @@
+summary: A simple, fast container image builder for Go applications
+webpage: https://ko.build
+version: 0.16.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/ko-0.16.0-linux-aarch64.tar.xz
+bin-sha: d44c89ab213b3365244955c809f2b78e08b47b83e3aec66ef8202b99307db484

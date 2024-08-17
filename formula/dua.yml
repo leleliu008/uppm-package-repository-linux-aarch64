@@ -1,0 +1,5 @@
+summary: View disk space usage and delete unwanted data, fast
+webpage: https://github.com/Byron/dua-cli
+version: 2.17.8
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/dua-2.17.8-linux-aarch64.tar.xz
+bin-sha: 4724078e99a1a1fb97e4a0b48170ca4b5b919d041768f1c9b0c3be5e551a67f2

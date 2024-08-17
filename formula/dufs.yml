@@ -1,0 +1,5 @@
+summary: A file server that supports static serving, uploading, searching, accessing control, webdav...
+webpage: https://github.com/sigoden/dufs
+version: 0.41.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/dufs-0.41.0-linux-aarch64.tar.xz
+bin-sha: 1bc04b6d668c4f3b0f922a9ee7d4f8965f0e3ca4ec1790219e65e8ebea3f4c6e

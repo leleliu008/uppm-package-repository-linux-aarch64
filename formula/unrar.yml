@@ -1,0 +1,5 @@
+summary: Extract, view, and test RAR archives
+webpage: https://www.rarlab.com
+version: 6.1.7
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/unrar-6.1.7-linux-aarch64.tar.xz
+bin-sha: bec1cc650339b8dd069ed3872ebbc22842c9735a7966aef3ab71b423ba076638

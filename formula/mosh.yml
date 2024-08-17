@@ -1,0 +1,5 @@
+summary: Remote terminal application
+webpage: https://mosh.org/
+version: 1.4.0
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/mosh-1.4.0-linux-aarch64.tar.xz
+bin-sha: 1cb4c93fe1aea131dd8e4dd28ef8a98ed72d8e66879cc59b271ccc06e7cdc22b
