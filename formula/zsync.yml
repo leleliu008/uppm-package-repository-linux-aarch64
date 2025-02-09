@@ -1,0 +1,5 @@
+summary: File transfer program
+webpage: http://zsync.moria.org.uk/
+version: 0.6.2
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/zsync-0.6.2-linux-aarch64.release.tar.xz
+bin-sha: aeb5a65f87a1acf2486ac4284cfe9b340312adc30ac356ad49822949c5cafca2
