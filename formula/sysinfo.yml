@@ -1,5 +1,5 @@
 summary: A command-line tool to get your system information
-webpage: https://github.com/leleliu008/C-examples
-version: 2024.08.17
-bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/sysinfo-2025.02.07-linux-aarch64.tar.xz
+webpage: https://github.com/leleliu008/sysinfo
+version: 2025.02.07
+bin-url: https://github.com/leleliu008/uppm-package-repository-linux-aarch64/releases/download/2024.08.17/sysinfo-2025.02.07-linux-aarch64.release.tar.xz
 bin-sha: 68fcb4ac536705e1e58aafe53216cbafe45bf4f1c282474f4904df0d8e959bb8
