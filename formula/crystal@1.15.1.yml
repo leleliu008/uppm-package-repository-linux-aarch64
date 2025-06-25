@@ -1,0 +1,5 @@
+summary: crystal compiler
+webpage: https://crystal-lang.org/
+bin-url: https://dev.alpinelinux.org/archive/crystal/crystal-1.15.1-aarch64-alpine-linux-musl.tar.gz
+bin-sha: 8806d0f218eca12efbe1e015d477453b1b6502ec8f6991be5651a637c50147b7
+version: 1.15.1
